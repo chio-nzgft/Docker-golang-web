@@ -2,7 +2,7 @@
 
 # git clone 
 
-git clone https://github.com/chio-nzgft/Docker-golang-web.git
+git clone https://github.com/chio-nzgft/Docker-golang-web
 
 # build go-web
 
